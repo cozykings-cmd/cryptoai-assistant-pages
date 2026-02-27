@@ -1,0 +1,42 @@
+Our app CryptoAI_Assistant is an educational tool that uses artificial intelligence to generate data visualizations and explanations about cryptocurrency markets and blockchain technology. The app helps users understand complex cryptocurrency concepts through automated content creation and data-driven insights.
+
+Integration with TikTok:
+
+1. Content Posting API: We use the Content Posting API to upload educational videos about cryptocurrency trends, market concepts, and blockchain technology. These videos are generated using data visualization tools, AI-powered analysis, and synthetic voiceovers to explain concepts in simple terms.
+
+2. Scopes used: 
+   - video.upload: To upload educational video content to TikTok's servers
+   - video.publish: To post approved educational content to the user's TikTok account
+
+3. Complete workflow:
+   a) AI system analyzes cryptocurrency market data and identifies educational topics
+   b) System generates 60-second educational videos with charts, graphs, and explanations
+   c) Content is automatically reviewed for compliance with TikTok's guidelines
+   d) Approved content is uploaded via the Content Posting API
+   e) User receives notification in TikTok inbox to review the content
+   f) User can review, edit, and publish the educational content
+
+Compliance and safety measures:
+
+- All content is clearly labeled with the disclaimer: "For entertainment and educational purposes only. Not financial advice."
+- We strictly avoid price predictions, trading signals, investment recommendations, or any content that could be construed as financial advice.
+- Content focuses on explaining blockchain concepts, cryptocurrency technology, and market mechanisms, not promoting investments.
+- Target audience is 18+ and all content is appropriate for educational purposes.
+
+Example use case:
+
+The system automatically creates a 60-second educational video explaining Bitcoin's historical market cycles. The video includes:
+- Animated charts showing Bitcoin price history
+- Simple explanations of market cycle phases (accumulation, markup, distribution, markdown)
+- AI voiceover explaining each phase in simple terms
+- Clear disclaimer overlay: "Educational content only. Not investment advice."
+
+The video is then uploaded via the Content Posting API, and the user is notified to review and publish it to their TikTok account for educational purposes.
+
+Our app does NOT provide:
+- Trading advice or investment recommendations
+- Price predictions or financial forecasts
+- Buy/sell signals or trading strategies
+- Any form of financial advisory services
+
+All content is purely educational, designed to help users understand cryptocurrency concepts through data visualization and AI-powered explanations.
